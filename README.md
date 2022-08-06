@@ -1,1 +1,1 @@
-# pharmacy-management-system
+# Pharmacy-Management-System
